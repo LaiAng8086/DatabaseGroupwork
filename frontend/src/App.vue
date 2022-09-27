@@ -22,7 +22,7 @@
           我们的论坛项目
           <a
             style="color: #000;text-transform: uppercase;font-size: 14px;font-weight: 400;"
-            href="https://github.com/yaminncco/vue-sidebar-menu"
+            href="https://github.com/seeeagull/DatabaseGroupwork.git"
           >
             Github链接
           </a>
